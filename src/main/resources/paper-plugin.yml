@@ -1,0 +1,4 @@
+name: DungeonPlugin
+version: '1.0-SNAPSHOT'
+main: me.polar.dungeonPlugin.DungeonPlugin
+api-version: '1.20'
